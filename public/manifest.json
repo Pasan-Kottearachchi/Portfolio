@@ -3,17 +3,17 @@
   "name": "Create React App Sample",
   "icons": [
     {
-      "src": "titleIcon.png",
+      "src": "businessapplication_edit_male_user_thepencil_theclient_negocio_2321.ico",
       "sizes": "64x64 32x32 24x24 16x16",
       "type": "image/x-icon"
     },
     {
-      "src": "titleIcon.png",
+      "src": "public/titleIcon.png",
       "type": "image/png",
       "sizes": "192x192"
     },
     {
-      "src": "titleIcon.png",
+      "src": "public/titleIcon.png",
       "type": "image/png",
       "sizes": "512x512"
     }

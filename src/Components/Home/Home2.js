@@ -48,7 +48,7 @@ function Home2() {
             </Tilt>
           </Col>
         </Row>
-        
+       
       </Container>
     </Container>
   );

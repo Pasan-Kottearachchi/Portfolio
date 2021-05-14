@@ -8,9 +8,9 @@ function AboutCard() {
     <Card className="quote-card-view">
       <Card.Body>
         <blockquote className="blockquote mb-0">
-          <p style={{ textAlign: "justify" }}>
+          <p style={{ textAlign: "center" }}>
             Hi Everyone, I am <span className="purple">Pasan Kottearachchi </span>
-            from <span className="purple"> Sri Lanka</span>
+            from <span className="purple"> Sri Lanka.</span>
             <br />I am an Undergraduate student following the BEng(Hons) in Software Engineering
             in Informatics Institute of Technology(IIT) affliated with Unversity of Westminster.
             <br />

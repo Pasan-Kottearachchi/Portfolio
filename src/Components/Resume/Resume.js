@@ -57,13 +57,13 @@ function Resume() {
             <Resumecontent
               title="GCE Advanced Level (Lyceum International School)"
               date="2016 - 2018"
-              content={["Information Technology - C" , "Physics- S" , "Combined Mathematics - F" ,
-                "General English - B"]}
+              content={["Information Technology" , "Physics" , "Combined Mathematics" ,
+                "General English"]}
             />
             <Resumecontent
               title="GCE Ordinary Level (Lyceum International School)"
               date="2013 - 2015"
-              content={["2 As (It, English)" , "4 Bs (Buddhism, Science, Maths, Sinhala)","3 Cs (History, Business Studies and Accounting English Literature" ]}
+              content={["IT" , "English","Buddhism","Science","Maths","Sinhala","History","Business Studies and Accounting","English Literature"]}
             />
             
           </Col>

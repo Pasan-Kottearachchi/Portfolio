@@ -28,7 +28,7 @@ function Projects() {
               Using SkLearn Library. The model was successful and was able to detect the sentiment polarity of a 
               given sentence. The model was able to recieve an accuracy of 89%."
 
-              link="http://viuwerarcane.us-east-2.elasticbeanstalk.com/"
+              // link="http://viuwerarcane.us-east-2.elasticbeanstalk.com/"
             />
           </Col>
 

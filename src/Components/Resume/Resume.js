@@ -6,7 +6,7 @@ import Resumecontent from "./ResumeContent";
 import "../../styles.css";
 import "bootstrap/dist/css/bootstrap.min.css";
 import axios from "axios";
-import pdf from "../../Assets/Curiculum Vitae.pdf";
+import pdf from "../../Assets/Pasan Kottearachchi.pdf";
 
 function Resume() {
 
@@ -34,16 +34,17 @@ function Resume() {
             <Resumecontent
               title="Frontend Developer at FIELDR Match Analyzing tool"
               content={[
-                "Worked on creating the frontend-end of the web application using ReactJs (Javascript Framework).",
+                "Worked on creating the frontend-end functionality of the web application using ReactJs (Javascript Framework).",
               ]}
             />
             
             <Resumecontent
               title="Full-Stack Developer in the Project VIUWER"
               content={[
+                "Led the team of 6 members",
                 "Operated on developing the frontend end funtionality of the website using ReactJs (Javascript Framework)",
-                "Made the backend structure and made some APIs in Flask (Python Framework) and guided the other team member",
-                "Did the Data Cleaning part in before the data was sent to the model to be trained and tested"
+                "Made the backend structure and made basic APIs in Flask (Python Framework) and guided the other team member",
+                "Cleaned the dataset and made it ready for training and testing process"
               ]}
             />
           </Col>
@@ -52,7 +53,7 @@ function Resume() {
             <Resumecontent
               title="BEng.(Hons) Software Engineering (Informatics Institute of Technology) "
               date="2018 - Present"
-              content={["Level 04 Avarage : 62.6"]}
+              content={["Programming Principles 1 - ( Python )","Programming Principles 2 - ( JAVA )","Object Oriented Programming","Algorithms","Database Systems","Client-Server Architecture","Mobile App Development","Web Design and Development"]}
             />
             <Resumecontent
               title="GCE Advanced Level (Lyceum International School)"
